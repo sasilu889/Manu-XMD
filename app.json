@@ -7,14 +7,14 @@
 
     "env": {
         "SESSION_ID": {
-            "description": "Type the Session-ID you got from pair or scan qr || සෙසන් id එක දාපන්...😌❤",
+            "description": "Manu-MD&kK1TkBiC#pwl0_3UU0u9mcT2YmE6cJxlbcDQiNHnz88K0Cj27GcA",
             "required": true,
-            "value": "put your session id here"
+            "value": "Manu-MD&kK1TkBiC#pwl0_3UU0u9mcT2YmE6cJxlbcDQiNHnz88K0Cj27GcA"
         },
         "TYPE": {
-            "description": "if you need buttons put 'button' if you need nonbutton ( number reply ) put 'nonbutton' || බටන් ඕනි නම් 'button' දාන්න number reply ඕනි නම් nonbutton දාන්න...😌❤",
+            "description": "button",
             "required": true,
-            "value": "nonbutton"
+            "value": "button"
         }
     },
     "buildpacks": [
